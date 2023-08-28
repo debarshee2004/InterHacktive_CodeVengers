@@ -115,10 +115,10 @@ These technologies, when used together, form a powerful stack for developing mod
 **Documentation:** [Debarshee Chakraborty](https://github.com/debarshee2004)
 
 **LinkedIn** <br/>
-[PROMIT CHAUDHURI](https://www.linkedin.com/in/promit-chaudhuri-2979b8274/)<br/>
-[SUBHADIP SANTRA](https://www.linkedin.com/in/subhadip-santra-82b250267/)<br/>
-[DEBARSHEE CHAKRABORTY](https://www.linkedin.com/in/debarshee-chakraborty-a88b47266/)<br/>
-[SOHAM BANERJEE](https://www.linkedin.com/in/soham-banerjee-8476ab28a/)
+[Promit Chaudhuri](https://www.linkedin.com/in/promit-chaudhuri-2979b8274/)<br/>
+[Subhadip Santra](https://www.linkedin.com/in/subhadip-santra-82b250267/)<br/>
+[Debarshee Chakraborty](https://www.linkedin.com/in/debarshee-chakraborty-a88b47266/)<br/>
+[Soham Bannerjee](https://www.linkedin.com/in/soham-banerjee-8476ab28a/)
 
 ## License
 
