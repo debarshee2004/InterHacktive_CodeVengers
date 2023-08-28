@@ -6,6 +6,8 @@
 [![Generic badge](https://img.shields.io/badge/Track-Android-Green.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Theme-Open_Inovation-yellow.svg)](https://shields.io/)
 
+[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/file/XlCRHNhnmtD3te1FyMLnHu/CodeVengers?type=design&node-id=0%3A1&mode=design&t=bZZilG0uq26AhJuJ-1)
+
 ## Table of Contents
 
 - [About the Project](#about-the-project)
@@ -129,5 +131,3 @@ For detailed usage instructions and guides, please refer to the [User Guide](use
 ## Conclusion
 
 Feel free to explore the CodeVengers repository and contribute to making urban parking a hassle-free experience for everyone. If you have any questions, concerns, or feedback, please don't hesitate to get in touch with us via the Issues section or by contacting the project maintainers. Happy parking! 🚗💨
-
-[Figma](https://www.figma.com/file/XlCRHNhnmtD3te1FyMLnHu/CodeVengers?type=design&node-id=0%3A1&mode=design&t=bZZilG0uq26AhJuJ-1)
