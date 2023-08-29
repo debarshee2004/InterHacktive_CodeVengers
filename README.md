@@ -41,20 +41,6 @@ Though this app has nothing to do with car renting, our inspiration came from **
 
 Imagine you are going to Victoria Memorial with a car, and you are facing a parking issue. Finding a proper parking location is hard and then remembering where you have parked is a big hassle. This is where our app will come to play to help you find the nearest parking spot and make reservations. It removes the headache which comes with car parking in city sides.
 
-**How does it work**
-
-- At first the user has to create an accout in the app.
-- After creating account, user can book a car parking slot by entering their location details like pincode or address.
-- After that user can book a car parking slot by entering their details.
-- The admin has to enter all the slots which are available at any given time, so that the users can avail those slots.
-- The admin has to approve or reject the booking request from users.
-- Once approved, the slots are available for use.
-- If there's no space left then the system automatically sends notification to the owner of the slot.
-- Users can check their status whether they've been accepted or rejected by the admins.
-- Admins can see all requests and their statuses.
-- All data is stored on MongoDB realtime database.
-- For sending notifications we shall use Google Cloud Messaging service(incomplete).
-
 ## Real World Problem the Project Solves
 
 The parking problem in India is a complex and widespread issue that affects urban areas across the country. Rapid urbanization, population growth, and increased vehicle ownership have exacerbated the challenges associated with parking. Here's an overview of the parking problem in India:
@@ -84,6 +70,20 @@ The parking problem in India is a complex and widespread issue that affects urba
 To address the parking problem in India, a multi-faceted approach is necessary. This could include city planning that prioritizes parking infrastructure, implementing stricter parking regulations and enforcement, promoting the use of public transportation, adopting technology-based parking solutions, encouraging carpooling and shared mobility options, and raising awareness about responsible parking behavior among citizens.
 
 ## Overview
+
+- At first the user has to create an accout in the app.
+- After creating account, user can book a car parking slot by entering their location details like pincode or address.
+- After that user can book a car parking slot by entering their details.
+- The admin has to enter all the slots which are available at any given time, so that the users can avail those slots.
+- The admin has to approve or reject the booking request from users.
+- Once approved, the slots are available for use.
+- If there's no space left then the system automatically sends notification to the owner of the slot.
+- Users can check their status whether they've been accepted or rejected by the admins.
+- Admins can see all requests and their statuses.
+- All data is stored on MongoDB realtime database.
+- For sending notifications we shall use Google Cloud Messaging service(incomplete).
+
+
 
 ## Chalenges faced while developing the project
 
