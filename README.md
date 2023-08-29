@@ -131,7 +131,7 @@ These technologies, when used together, form a powerful stack for developing mod
 
 The Codevengers application is distributed under the [MIT License](LICENSE), which means you're free to use, modify, and distribute the code as per the terms of the license.
 
-For detailed usage instructions and guides, please refer to the [User Guide](#https://github.com/debarshee2004/InterHacktive_CodeVengers/blob/main/Documents/UserGuide.md) and [Admin Guide](#https://github.com/debarshee2004/InterHacktive_CodeVengers/blob/main/Documents/AdminGuide.md) provided in the repository.
+For detailed usage instructions and guides, please refer to the [User Guide](https://github.com/debarshee2004/InterHacktive_CodeVengers/blob/main/Documents/UserGuide.md) and [Admin Guide](https://github.com/debarshee2004/InterHacktive_CodeVengers/blob/main/Documents/AdminGuide.md) provided in the repository.
 
 ## Conclusion
 
