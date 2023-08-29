@@ -1,3 +1,8 @@
+<div align="center">
+ <kbd><img src="./Logo.png" width="" height="300"/></kbd>
+</div>
+<br/>
+
 # CodeVengers - An innovation to solve the parking problem in India©
 
 [![Generic badge](https://img.shields.io/badge/License-MIT-green.svg)](https://shields.io/)
